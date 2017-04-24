@@ -4,6 +4,7 @@
   "description": "Seed for a node module",
   "main": "dist/main.js",
   "scripts": {
+    "build": "tsc",
     "test": "alsatian **/*.spec.js"
   },
   "repository": {

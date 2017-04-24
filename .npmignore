@@ -8,3 +8,6 @@ tsconfig.json
 
 # Git
 .gitignore
+
+# Source files
+src
