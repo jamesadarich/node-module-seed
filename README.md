@@ -8,4 +8,4 @@ This will get you started quickly on your way to a node module
 2) update this file to reflect what the project is
 3) update the license and `package.json` field if relevant
 
-... and your done (hooray!)
+... and you're done (hooray!)
