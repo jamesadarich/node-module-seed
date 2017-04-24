@@ -1,0 +1,19 @@
+{
+  "name": "node-module-seed",
+  "version": "1.0.0",
+  "description": "Seed for a node module",
+  "main": "dist/main.js",
+  "scripts": {
+    "test": "alsatian **/*.spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamesrichford/node-module-seed.git"
+  },
+  "author": "James Richford <=> (=)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jamesrichford/node-module-seed/issues"
+  },
+  "homepage": "https://github.com/jamesrichford/node-module-seed#readme"
+}
