@@ -4,8 +4,9 @@
       "module": "commonjs",
       "moduleResolution": "node",
       "outDir": "dist",
-      "noImplicitAny": true,
       "declaration": true,
+      "experimentalDecorators": true,
+      "noImplicitAny": true,
       "sourceMap": true,
       "newLine": "LF"
    },

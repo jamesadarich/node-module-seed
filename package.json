@@ -5,6 +5,7 @@
   "main": "dist/main.js",
   "scripts": {
     "build": "tsc",
+    "pretest": "npm run build",
     "test": "alsatian **/*.spec.js"
   },
   "repository": {
@@ -18,6 +19,7 @@
   },
   "homepage": "https://github.com/jamesrichford/node-module-seed#readme",
   "devDependencies": {
+    "alsatian": "^1.3.1",
     "typescript": "^2.2.2"
   }
 }
