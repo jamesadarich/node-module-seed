@@ -7,7 +7,7 @@
     "build": "tsc",
     "pretest": "npm run build",
     "test": "alsatian **/*.spec.js",
-    "prepublish": "npm run build"
+    "prepublish": "npm test"
   },
   "repository": {
     "type": "git",
