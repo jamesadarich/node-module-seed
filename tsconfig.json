@@ -12,11 +12,11 @@
    },
    "buildOnSave": false,
    "compileOnSave": true,
+   "include": [
+       "./src/**/*.ts"
+   ],
    "exclude": [
       "./**/*.d.ts",
       "node_modules"
-   ],
-   "filesGlob": [
-      "./**/*.ts"
    ]
 }
